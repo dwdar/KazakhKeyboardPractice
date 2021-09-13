@@ -1,10 +1,12 @@
 Kazakh keyboard practice
 
+
+
 dwdar@sian.com
 
 2010.6
 
-![](D:\Python\notebook\typora-user-images\20200531133732.jpg)
+![](https://img03.sogoucdn.com/app/a/100520146/bfd1184f4a00e271772d08725b5ef9ec)
 
 ![](D:\Python\notebook\typora-user-images\20200531133812.jpg)
 
