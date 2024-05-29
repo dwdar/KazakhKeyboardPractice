@@ -38,23 +38,27 @@
 
 https://github.com/dwdar/KazakhKeyboardPractice.git
 
+#### gitee地址
+
+https://gitee.com/dwdar/kazakh-keyboard-practice.git
+
+
+
 #### 界面截图
 
-![](./img/05.jpg)
+![](./img/01.png)
 
-![](./img/01.jpg)
+![](./img/02.png)
 
-![](./img/02.jpg)
+![](./img/03.png)
 
-![](./img/06.jpg)
+![](./img/04.png)
 
-![](./img/08.jpg)
+![](./img/05.png)
 
-![](./img/03.jpg)
+![](./img/06.png)
 
-![](./img/07.jpg)
-
-![](./img/04.jpg)
+![](./img/07.png)
 
 
 dwdar@sian.com
